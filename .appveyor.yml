@@ -1,4 +1,4 @@
 version: 'build #{build}'
 
 build_script:
-  - gradlew build
+  - gradlew build --scan
