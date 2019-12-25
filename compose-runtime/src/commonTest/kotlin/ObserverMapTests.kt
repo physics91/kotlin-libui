@@ -20,7 +20,7 @@ import kotlin.test.assertEquals
 import kotlin.test.BeforeTest
 import kotlin.test.Test
 
-/*TODO class ObserverMapTests {
+class ObserverMapTests {
 
     private val node1 = 1
     private val node2 = 2
@@ -161,4 +161,4 @@ import kotlin.test.Test
         val actual = get(models).sorted()
         assertEquals(expected, actual)
     }
-}*/
+}
